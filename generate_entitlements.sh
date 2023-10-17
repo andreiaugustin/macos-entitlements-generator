@@ -55,6 +55,7 @@ function __show_usage {
     echo ""
     echo "  Resource access : https://developer.apple.com/documentation/security/hardened_runtime#3111190"
     echo "  --audio-input                           Adds audio input access entitlement"
+    echo "  --camera                                Adds camera access entitlement"
     echo "  --location                              Adds location access entitlement"
     echo "  --addressbook                           Adds address book access entitlement"
     echo "  --calendars                             Adds calendar access entitlement"
