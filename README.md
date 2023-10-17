@@ -48,6 +48,7 @@ Options:
 
   Resource access : https://developer.apple.com/documentation/security/hardened_runtime#3111190
   --audio-input                           Adds audio input access entitlement
+  --camera                                Adds camera access entitlement
   --location                              Adds location access entitlement
   --addressbook                           Adds address book access entitlement
   --calendars                             Adds calendar access entitlement
